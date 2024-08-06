@@ -1,5 +1,5 @@
 ## Others
-- Proyect in GitHub: https://github.com/jacesca/pyspark-bigdata
+- Proyect in GitHub: https://github.com/jacesca/pyspark-cleaning
 - Launch jupyter notebook
 ```
 jupyter notebook
